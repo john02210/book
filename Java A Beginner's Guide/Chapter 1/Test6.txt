@@ -1,0 +1,4 @@
+How do you create a single-line comment? How do you create a multiline comment?
+
+To create a single-line comment, we can use //.
+To create a multiline comment, we can use /* */.

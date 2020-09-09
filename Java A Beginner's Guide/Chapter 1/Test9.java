@@ -1,7 +1,3 @@
-/*
-   The moon's gravity is about 17 percent that of earth's.
-   Write a program that computer your effective weight on the moon.
-*/
 class Test9 {
 	public static void main(String args[]) {
 		double earthWeight, moonWeight;

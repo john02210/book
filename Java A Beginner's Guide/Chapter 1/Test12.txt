@@ -1,3 +1,1 @@
-Does it matter where on a line you put a statement?
-
 No.

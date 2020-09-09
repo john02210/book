@@ -1,4 +1,2 @@
-Show the general form of the if statement. Show the general form of the for loop.
-
 if(condition) statement;
 for(initialization; condition; iteration) statement;

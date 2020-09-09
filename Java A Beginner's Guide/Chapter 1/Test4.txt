@@ -1,4 +1,2 @@
-What is a variable?
-
 Variable is a named memory location that can be assigned a value.
 The content of a variable is chageable.

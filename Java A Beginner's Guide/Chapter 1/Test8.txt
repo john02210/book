@@ -1,3 +1,1 @@
-How do you create a block of code
-
 To create block of code, we can use { }.

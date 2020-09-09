@@ -1,5 +1,3 @@
-What is bytecode and why is it important to Java's use for Internet programming?
-
 Bytecode is a highly optimized set of instructions designed to be executed by JVM.
 To execute bytecode, We just need JVM.
 JVM exists for a given system, any Java program can run on it.
